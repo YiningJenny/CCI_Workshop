@@ -25,7 +25,7 @@ The purpose of this workshop is to inspire and engage participants by providing 
 ### Conclusion:
 By the end of this workshop, participants will have acquired valuable skills in hardware-software integration, game design, and programming. They will have created their very own motion-controlled platformer game using Arduino and Unity, gaining practical experience and fostering a passion for technology and game development. Join us on this exciting journey as we explore the fascinating world of motion-controlled gaming!
 ## timings roughly
-Around 7 or 8 sessions. 
+11 am to 5 pm workshop (6 hours). Around 7 or 8 sessions. 
 ## any materials required (clay etc)
 [Conductive wires](https://www.sparkfun.com/products/retired/12806) or other materials. [Tutorial](https://www.instructables.com/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
 
