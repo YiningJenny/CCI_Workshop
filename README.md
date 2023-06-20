@@ -28,6 +28,8 @@ By the end of this workshop, participants will have acquired valuable skills in 
 Around 7 or 8 sessions. 
 ## any materials required (clay etc)
 [Conductive wires](https://www.sparkfun.com/products/retired/12806) or other materials. [Tutorial](https://www.instructables.com/DIY-Breath-Sensor-with-Arduino-Conductive-Knitted-/)
+
+(I'm not sure this is all materials that we need. I will do more research about this later, cuz I want to explore more conductive materials with the audience to make workshop more interesting and inclusive.)
 ## tech required 
 - Arduino sensors and related meterials. (PS: I need the whole Arduino kit. Check Matt or Pete, they should know what and how to arrange.)
 - Software: Unity 2018.4
