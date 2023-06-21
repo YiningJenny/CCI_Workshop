@@ -1,0 +1,10 @@
+- more concepture
+- loan equipment from cci
+- blank space - social physical games (board games or party)
+- move my workshop to september
+- timetable
+- 学生，朋友，piblic audience, people around
+- katie and sophie will be there
+- games i like, why, why attractive, personal feelings. role of the game. 
+- physical to digital
+- dont worry about theory. talk about my feelings, understanding. no need to be a lecture.
