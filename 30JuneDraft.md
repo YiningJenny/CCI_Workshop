@@ -27,6 +27,7 @@ or satisfaction from their involvement.
 - A spinner is attached to a square board and is used to determine where the player has to put their hand or foot. The spinner is divided into four labeled sections: left foot, right foot, left hand, and right hand. Each of those four sections are divided into the four colors (red, yellow, green, and blue). After spinning, the combination is called (for example: "right hand yellow") and players must move their matching hand or foot to a circle of the correct color. In a two-player game, no two people can have a hand or foot on the same circle; the rules are different for more players. Owing to the scarcity of colored circles, players will often be required to put themselves in unlikely or precarious positions, eventually causing someone to fall. A person is eliminated when they fall or when their elbow or knee touches the mat.
 ## The NINJA game
 [How to play](https://frugalfun4boys.com/how-to-play-the-game-ninja/)
+
 __Here’s how to play:__
 
 - All the players stand with their hands together, facing the center of the circle.
