@@ -27,3 +27,12 @@ or satisfaction from their involvement.
 - A spinner is attached to a square board and is used to determine where the player has to put their hand or foot. The spinner is divided into four labeled sections: left foot, right foot, left hand, and right hand. Each of those four sections are divided into the four colors (red, yellow, green, and blue). After spinning, the combination is called (for example: "right hand yellow") and players must move their matching hand or foot to a circle of the correct color. In a two-player game, no two people can have a hand or foot on the same circle; the rules are different for more players. Owing to the scarcity of colored circles, players will often be required to put themselves in unlikely or precarious positions, eventually causing someone to fall. A person is eliminated when they fall or when their elbow or knee touches the mat.
 ## The NINJA game
 [How to play](https://frugalfun4boys.com/how-to-play-the-game-ninja/)
+__Here’s how to play:__
+
+- All the players stand with their hands together, facing the center of the circle.
+- Everyone says, “3, 2, 1, NINJA!” and then freezes in a cool ninja pose. (This is the favorite part!)
+- Each player takes a turn doing a ninja move. Turns move around the circle, just like any other game.
+- The object of the game is to get the other players “out,” one limb at a time.
+- When it’s your turn, you get one move. You can karate chop another player’s arm below the elbow, or kick their ankle or foot. You can try to get any player out – it does not need to be the person next to you. You can take a step as part of your move, but only one step. For example, you can step forward or backwards and do a karate chop with your arm. The player being attacked can dodge your ninja move. If you successfully karate chop their arm below the elbow or their foot/ankle, then that limb is out!
+- A player is out of the game when both of their arms and both of their legs are out.
+- The winner is the last ninja standing!
