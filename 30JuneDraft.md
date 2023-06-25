@@ -1,5 +1,5 @@
 # Workshop outline (Unformal)
-- __Materials:__ Papers and pens and sticky notes. I prefer 4K or 2K papers and colorful pens, but normal ones are also fine if those are inaccessible.
+- __Materials:__ Papers, pens, sticky notes, and balloons. I prefer 4K or 2K papers and colorful pens, but normal ones are also fine if those are inaccessible. 
 - __Amazon purchase:__ [Twister](https://www.amazon.co.uk/Hasbro-98831-Twister-Game/dp/B008J87PVC)
 - __Printing and handouts__ are not necessary for my workshop for now but I will send them over before 28th June if I change my mind.
 ## What is a game?
