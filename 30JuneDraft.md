@@ -21,11 +21,12 @@ Games typically have specific rules that govern the behavior and interactions of
 
 These elements collectively define the fundamental components of a game, providing structure, purpose, and engagement for the participants. They create an interactive and rule-based system where players can immerse themselves, compete, collaborate, and derive enjoyment
 or satisfaction from their involvement.
+- I believe all of you have played games. Is there anyone wants share his favourite game and try to analyze the key elements of it? (If not i can give you 5 mins to think about it.)
 ## Twister
 - Twister is played on a large plastic mat that is spread on the floor or ground. The mat has four rows of six large colored circles on it with a different color in each row: red, yellow, green and blue. A spinner tells players where they have to place their hand or foot.
   The game promotes itself as "the game that ties you up in knots".
 - A spinner is attached to a square board and is used to determine where the player has to put their hand or foot. The spinner is divided into four labeled sections: left foot, right foot, left hand, and right hand. Each of those four sections are divided into the four colors (red, yellow, green, and blue). After spinning, the combination is called (for example: "right hand yellow") and players must move their matching hand or foot to a circle of the correct color. In a two-player game, no two people can have a hand or foot on the same circle; the rules are different for more players. Owing to the scarcity of colored circles, players will often be required to put themselves in unlikely or precarious positions, eventually causing someone to fall. A person is eliminated when they fall or when their elbow or knee touches the mat.
-- I believe all of you have played games. Is there anyone wants share his favourite game and try to analyze the key elements of it? (If not i can give you 5 mins to think about it.)
+
 
 ## The NINJA game
 [How to play](https://frugalfun4boys.com/how-to-play-the-game-ninja/)
