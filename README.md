@@ -36,3 +36,6 @@ By the end of this workshop, participants will have acquired valuable skills in 
 - Software: Arduino 1.8
 ## how many people can attend
 Maybe as much as possible but less than 20.
+
+- Rosemary's email:
+r.cronin@arts.ac.uk
