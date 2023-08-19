@@ -10,7 +10,7 @@ Whether you are a seasoned designer or just embarking on your creative journey, 
 - Some printed materials (I will send the files before the deadline for delivery)
 - scissors tapes and glue
 ## Visuals 
-![Visual4_画板 1](https://github.com/YiningJenny/CCI_Workshop/assets/119497753/2a4e942a-6755-40cf-8748-5a249c83af7d)
+![Visual4_画板 1](https://github.com/YiningJenny/CCI_Workshop/assets/119497753/435989a6-8fb9-47c2-b0b9-eda77e9ce805)
 
 
 ## Workshop timings / breakdown 
