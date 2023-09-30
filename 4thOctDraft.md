@@ -1,0 +1,9 @@
+1. My name is Yining, you can call me Jenny. I am currently studying creative computing in CCI as a postgraduate student. My undergraduate major was digital media design and game design, so I always try to intersect interactive design and games together to make my projects interesting and useful at the same time. I would rather say i am a programmer than an artist or designer because I dont think I am that creative. That's also the reason why I love talking to people. I really enjoy having a talk with people from different fields, people have a diversity of perspectives depending on their majors, interests, cultures, and races. I can always be inspired by that and get my project improved. I hope everyone here can also enjoy today's worshop.
+
+2. We will discuss how design can be used as a method to pose questions and conduct research. Emphasizing that design research, especially when integrated into the design process, can lead to the emergence of unexpected questions. I will introduce the "iterative design process" as a research methodology and illustrate it with examples from my recent game projects (Legend of Hanzi). Also, I want to say that game creation is an excellent model for research through design, as it focuses on creating delightful experiences, rather than just fulfilling utilitarian needs. Games are primarily played for the pleasure they provide, and the interaction with a game is an end in itself, not just a means to an external goal.
+
+3. This is the rough structure of today's content. Introduction OverviewCase analyze Review Discussion. We already have the intro, next I will talk more in depth about the theory of iterative design.
+
+4. Mainly of my theory is from Eric's essay, Play as a research: The Iterative design. I really recommand you look into it if you are also doing some designs or being interested with game designing.
+
+5. 
