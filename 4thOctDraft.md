@@ -6,4 +6,25 @@
 
 4. Mainly of my theory is from Eric's essay, Play as a research: The Iterative design. I really recommand you look into it if you are also doing some designs or being interested with game designing.
 
-5. 
+5.
+- Iterative design is a design methodology based on a cyclic process of prototyping, testing, analyzing, and refining a work in progress.
+- In iterative design, interaction with the designed system is used as a form of research for informing and evolving a project, as successive versions, or iterations of a design are implemented.
+- Test; analyze; refine. And repeat. Because the experience of viewers/users/players/etc cannot ever be completely predicted, in an iterative process design decisions are based on the experience of the prototype in progress.
+- The prototype is tested, revisions are made, and the project is tested once more.
+- In this way, the project develops through an ongoing dialogue between the designers, the design, and the testing audience.
+6.
+- In the case of games, iterative design means playtesting. Throughout the entire process of design and development, your game is played. You play it. The rest of the development team plays it. Other people in the office play it. People visiting your office play it. You organize groups of testers that match your target audience. You have as many people as possible play the game.
+- In each case, you observe them, ask them questions, then adjust your design and playtest again.
+- This iterative process of design is radically different than typical retail game development. More often than not, at the start of the design process for a computer or console title, a game designer will think up a finished concept and then write an exhaustive design document that outlines every possible aspect of the game in minute detail.
+- Invariably, the final game never resembles the carefully conceived original. A more iterative design process, on the other hand, will not only streamline development resources, but will also result in a more powerful and successful final product.
+7. I hope the theory part was not very boring. From now on I will analyze some of my projects as example. The first case is a very simple physical game called black box challenge.
+8. Our game inspiration was from an old story in bible. 
+  The Tower of Babel narrative in Genesis is an origin myth and parable meant to explain why the world's peoples speak different languages.
+According to the story, a united human race speaking a single language and migrating eastward, comes to the land of Shinar/ˈʃaɪnə/. There they agree to build a city and a tower with its top in the sky. Then Yahweh/ja:wa:/, observing their city and tower. The God was concerned that humans had blasphemed /blæsˈfiːm/ by building the tower to avoid a second flood so God brought into existence multiple languages. As a result, humans were divided into linguistic groups, unable to understand each other.
+9. Based on this story, we had our first prototype.
+- This game needes four players and be separated into four parts by its rule. The first player touch the object with eyes closed or covered, guess and describe by human language but no directly say the name.
+- The second player draws from the description and then shows it to the third player in silence.
+- The third player guess based on the content of the picture and describes it to the fourth player in body language in slience.
+- The last player guess the item in the box by body movements.
+10. Designing a first prototype requires strategic thinking about how to most quickly implement a playable version that can begin to address the project’s chief uncertainties in a meaningful way. Can you create a paper version of your digital game? Can you design a short version of a game that will last much longer in its final form? Can you test the interaction pattern of a massively multiplayer game with just a handful of players?
+In the iterative design process, the most detailed thinking you need at any moment is that which will get you to your next prototype. It is certainly important to understand the big picture as well: the larger conceptual, technical, and design questions that drive the project as a whole. Just be sure not to let your design get ahead of your iterative research. Keep your eye on the prize, but leave room for play in your design, for the potential to change as you learn from your playtesting, accepting the fact that some of your assumptions will undoubtedly be wrong.
